@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GpsTrackerApp</string>
+    <string name="location_not_available">Location not available</string>
+    <string name="get_current_location">Get Current Location</string>
+    <string name="location_format">Latitude: %1$f\nLongitude: %2$f</string>
+    <string name="location_null">Location is null. Make sure GPS is enabled.</string>
+    <string name="location_failed">Failed to get location: %1$s</string>
+</resources>
